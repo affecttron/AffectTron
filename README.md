@@ -6,12 +6,12 @@
 
 ---
 
-### 🧑‍🎨 About me
+###  About me
 
-- 🎨 Graphic designer by trade, usually coding for fun and small projects.
-- 🐍 Coding in **Python**, **Java**, **HTML**, **CSS**, **JavaScript** and **C#**
-- 🌱 Currently mixing design + code into fun side projects.
-- ⚡ I think i make pretty good graphic design and pretty bad code.
+-  Graphic designer by trade, usually coding for fun and small projects.
+-  Coding in **Python**, **Java**, **HTML**, **CSS**, **JavaScript** and **C#**
+-  Currently mixing design + code into fun side projects.
+-  I think i make pretty good graphic design and pretty bad code.
 
 ---
 
