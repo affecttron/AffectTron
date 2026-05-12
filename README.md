@@ -8,10 +8,10 @@
 
 ### 🧑‍🎨 About me
 
-- 🎨 Graphic designer by trade — pixels, layouts, and clean visuals are my thing
+- 🎨 Graphic designer by trade, usually coding for fun and small projects.
 - 🐍 Coding in **Python**, **Java**, **HTML**, **CSS**, **JavaScript** and **C#**
-- 🌱 Currently mixing design + code into fun side projects
-- ⚡ Fun fact: I think good design and good code have the same vibe — both need balance
+- 🌱 Currently mixing design + code into fun side projects.
+- ⚡ I think good design and pretty bad code.
 
 ---
 
