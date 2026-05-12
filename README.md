@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Arthur 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Graphic+Designer+%F0%9F%8E%A8;Python+%26+Java+enthusiast+%F0%9F%92%BB;Always+building+something+cool+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=I+am+a+Graphic+Designer;Coding+for+fun" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AffectTron&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AffectTron&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
